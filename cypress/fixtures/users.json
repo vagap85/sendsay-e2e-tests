@@ -1,0 +1,15 @@
+{
+  "validUser": {
+    "email": "r0cyt@virgilian.com",
+    "password": "8v<X`fK%:~",
+    "name": "evgen"
+  },
+  "corporateUser": {
+    "corporateLogin": "x_1770289846843291",
+    "corporatePassword": "8v<X`fK%:~"
+  },
+  "invalidUser": {
+    "email": "invalid@example.com",
+    "password": "wrongpassword"
+  }
+}
