@@ -36,7 +36,6 @@ sendsay-e2e-tests/<br>
 ├── package.json<br>
 └── README.md<br>
 
-text
 
 ## 🚀 Быстрый старт
 
